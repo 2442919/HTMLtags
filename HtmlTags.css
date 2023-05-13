@@ -1,0 +1,44 @@
+    
+body {
+ background-image: url("HtmlTagsBg.png");
+    color: #ffff
+}
+
+#left {
+    top: 100;
+    color: #ffff;
+    text-align: center;
+    float: left;
+    width: 30%;
+    height: 400px;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto; 
+    overflow: auto;
+}
+
+#center {
+    top: 100;
+    color: #ffff;
+    text-align: center;
+    float: left;
+    width: 40%;
+    height: 200px;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
+
+#right { 
+    top: 100;
+    color: #ffff;
+    text-align: center;
+    float: left;
+    width: 30%;
+    height: 400px;
+    padding: auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+}
